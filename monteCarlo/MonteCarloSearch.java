@@ -28,7 +28,7 @@ public class MonteCarloSearch {
     //* Monte carlo search constructor
     MonteCarloSearch(int size){
         state = new State(size); // create a new state object
-        numSimulations = 1500;  // set the simulation number to 1000 as default 
+        numSimulations = 1500;  // set the simulation number to 1500 as default 
         IndexBest = 0;          // the best index set to 0, but will change
         immediateExists = false; // immediate exists is initially false
         rewardVal = 1; // the reward is +1 for winning
