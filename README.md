@@ -1,2 +1,2 @@
 # project_folder
-CS3361 project folder
+CS3365 project folder
